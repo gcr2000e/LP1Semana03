@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroPerk", "HeroPerk\HeroPe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pow2Until", "Pow2Until\Pow2Until.csproj", "{814DE7AC-79F1-47F5-AD6C-1BF33F1482A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousQuotes", "FamousQuotes\FamousQuotes.csproj", "{678B72B5-FAB0-4233-8A11-576B8230DF01}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoPaSci", "RoPaSci\RoPaSci.csproj", "{F34F17EE-9415-45A9-B41C-61203B8B72FB}"
 EndProject
 Global
