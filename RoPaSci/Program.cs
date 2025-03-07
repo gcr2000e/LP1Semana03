@@ -9,14 +9,14 @@ namespace RoPaSci
             Rock,
             Paper,
             Scissors
-        }
+        };
 
         enum GameStatus
         {
             Draw,
             Player1Wins,
             Player2Wins
-        }
+        };
 
         private static void Main(string[] args)
         {
